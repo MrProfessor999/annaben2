@@ -1,14 +1,14 @@
 class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚈 𝙽𝙰𝙼𝙴 , <a href='https://t.me/Dqautofl_bot'>Anna Ben</a>, 𝙸𝚃'𝚂 𝚅𝙴𝚁𝚈 𝙴𝙰𝚂𝚈. 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽, 𝚃𝙷𝙰𝚃𝚂 𝙰𝙻𝙻, 𝙸'𝙻𝙻 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂 𝚃𝙷𝙴𝚁𝙴 🤓
-Hey,<a href='http://t.me/Dqautofl_Bot?startgroup=true'>add me to your group and make me an admin here</a>
+𝙼𝚈 𝙽𝙰𝙼𝙴 ,Sakura, 𝙸𝚃'𝚂 𝚅𝙴𝚁𝚈 𝙴𝙰𝚂𝚈. 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽, 𝚃𝙷𝙰𝚃𝚂 𝙰𝙻𝙻, 𝙸'𝙻𝙻 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂 𝚃𝙷𝙴𝚁𝙴 🤓
+Hey,Just add me to your group and make me an admin there
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
-©️MᴀɪɴᴛᴀɪɴᴇD Bʏ: <a href="https://t.me/pro_editor_tg"> Lallu-llalus </a>"""
+©️MᴀɪɴᴛᴀɪɴᴇD Bʏ: <a href="https://t.me/Adi12456"> VISHNU </a>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """
-✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: <a href="https://t.me/Dqautofl_Bot"> ANNA BEN </a>
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href="https://t.me/team_annaben"> TEAM ANNA </a>
+✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: Sakura
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href="https://t.me/N_A_V_I_P_A_V_I"> ༒⚔ 𝕄𝕣 ℙ𝕣𝕠𝕗𝕖𝕤𝕤𝕠𝕣⚔༒ </a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -19,13 +19,13 @@ Hey,<a href='http://t.me/Dqautofl_Bot?startgroup=true'>add me to your group and 
 -- Please Contact My Master For My Doubts And Complantes
 
 𝗠𝗔𝗦𝗧𝗘𝗥:
-<a href="https://t.me/team_annaben"> TEAM ANNA </a>  """
+<a href="https://t.me/N_A_V_I_P_A_V_I"> ༒⚔ 𝕄𝕣 ℙ𝕣𝕠𝕗𝕖𝕤𝕤𝕠𝕣⚔༒ </a>  """
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and tessa will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. Anna ben should have admin privillage.
+1. Sakura should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -36,11 +36,11 @@ Hey,<a href='http://t.me/Dqautofl_Bot?startgroup=true'>add me to your group and 
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- Anna ben Supports both url and alert inline buttons.
+- Sakura Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. ANNA BEN supports buttons with any telegram media type.
+2. Sakura supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
@@ -71,7 +71,7 @@ Hey,<a href='http://t.me/Dqautofl_Bot?startgroup=true'>add me to your group and 
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of tessa
+these are the extra features of Sakura
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specifed user.</code>
