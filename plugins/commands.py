@@ -21,16 +21,16 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('©️channel', url='https://t.me/tg_bots_updates'),
+            InlineKeyboardButton('©️channel', url='https://t.me/Sakura_update'),
             InlineKeyboardButton('♻️Group', url='https://t.me/EDIT_REPO')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
             ],[
-            InlineKeyboardButton('ᦔꫀꪜ', url='https://t.me/pro_editor_tg'),
-            InlineKeyboardButton('🤠Share me', url='https://t.me/share/url?url=https://t.me/Dqautofl_bot')
+            InlineKeyboardButton('ᦔꫀꪜ', url='https://t.me/adi12456'),
+            InlineKeyboardButton('🤠Share me', url='https://t.me/share/url?url=https://t.me/{temp.U_NAME}')
             ],[
-            InlineKeyboardButton('ANNA UPDATES😉', url='https://t.me/team_annaben')
+            InlineKeyboardButton('HELPER', url='https://t.me/Unni0240')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -69,16 +69,16 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('©️ Channel', url='https://t.me/tg_bots_updates'),
+            InlineKeyboardButton('©️ Channel', url='https://t.me/Sakura_update'),
             InlineKeyboardButton('♻️ Group', url='https://t.me/EDIT_REPO')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
             ],[
-            InlineKeyboardButton('ᦔꫀꪜ', url='https://t.me/pro_editor_tg'), 
-            InlineKeyboardButton('🤠Share me', url='https://t.me/share/url?url=https://t.me/Dqautofl_bot')
+            InlineKeyboardButton('ᦔꫀꪜ', url='https://t.me/adi12456'), 
+            InlineKeyboardButton('🤠Share me', url='https://t.me/share/url?url=https://t.me/{temp.U_NAME}')
             ],[
-            InlineKeyboardButton('ANNA UPDATES😉', url='https://t.me/team_annaben')
+            InlineKeyboardButton('HELPER', url='https://t.me/Unni0240')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
